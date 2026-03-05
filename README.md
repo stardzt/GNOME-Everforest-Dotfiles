@@ -18,7 +18,7 @@ A [modified](midnight-everforest.theme.css) version of [midnight by refact0r](ht
 
 ### Spotify
 ![Screenshot](Screenshots/spotify)
-I'm using [Comfy](https://github.com/Comfy-Themes/Spicetify) theme with Everforest color pallete. Use [Spicetify](https://spicetify.app/) to apply the theme.
+I'm using [Comfy](https://github.com/Comfy-Themes/Spicetify) theme with Everforest color scheme. Use [Spicetify](https://spicetify.app/) to apply the theme.
 
 ### GNOME Extensions
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
