@@ -14,7 +14,11 @@
 
 ### Discord
 ![Screenshot](Screenshots/discord)
-A [modified](midnight-everforest.theme.css) version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. Use BetterDiscord or Vencord to apply the theme (I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
+A [modified](midnight-everforest.theme.css) version of [midnight by refact0r](https://github.com/refact0r/midnight-discord) to match the Everforest theme. Use BetterDiscord or Vencord to apply the theme. I'm using Vencord so the theme file path should be in `~/.config/Vencord/themes`.
+
+### Spotify
+![Screenshot](Screenshots/spotify)
+I'm using [Comfy](https://github.com/Comfy-Themes/Spicetify) theme with Everforest color pallete. Use [Spicetify](https://spicetify.app/) to apply the theme.
 
 ### GNOME Extensions
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
