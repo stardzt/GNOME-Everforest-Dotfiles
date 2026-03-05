@@ -11,7 +11,6 @@
 | Icon Pack | [Colloid Everforest Green](https://github.com/vinceliuice/Colloid-icon-theme) |
 | Font | [SF Pro Display](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts) | 
 | Theme | [Everforest Medium Dark](https://github.com/catppuccin/gtk) |
-| Widget | Conky ([Mirach](https://www.gnome-look.org/p/1851356)) 
 
 ### Discord
 ![Screenshot](Screenshots/discord)
