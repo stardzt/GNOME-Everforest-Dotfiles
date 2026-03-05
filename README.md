@@ -6,6 +6,7 @@
 ### Setup Overview
 | Command | Description |
 | --- | --- |
+| OS | Nobara Linux 43 (GNOME Edition) |
 | Desktop Environment | GNOME 49.4 |
 | Terminal | GNOME Terminal |
 | Icon Pack | [Colloid Everforest Green](https://github.com/vinceliuice/Colloid-icon-theme) |
