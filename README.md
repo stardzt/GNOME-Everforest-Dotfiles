@@ -1,6 +1,6 @@
 # GNOME-Dotfiles
 
-### Screenshots
+### Preview
 ![Screenshot](Screenshots/Screenshot%20From%202026-03-06%2003-20-41.png) ![Screenshot](Screenshots/3)
 
 ### Setup Overview
